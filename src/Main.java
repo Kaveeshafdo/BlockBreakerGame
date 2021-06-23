@@ -15,6 +15,7 @@ public class Main {
         frame.setVisible(true);
         frame.setSize(498,600);
         frame.setResizable(false);
+        frame.setLocationRelativeTo(null);
         
         
     }
